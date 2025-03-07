@@ -16,11 +16,10 @@ function App() {
   const toggleView = (showPlayers) => {
     setShowPlayers(showPlayers);
   };
-
   const deductCoins = (biddingPrice) => {
     setCoin((prevCoin) => Math.max(prevCoin - biddingPrice, 0));
   };
-
+  
   const handleCoinCollect = (totalCoin) => {
     setCoin((prevCoin) => prevCoin + totalCoin); 
   };
