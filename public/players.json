@@ -1,0 +1,92 @@
+[
+    {
+        "playerId": 1,
+        "name": "Virat Kohli",
+        "country": "India",
+        "image": "https://i.ibb.co.com/F45vSBRc/lionel-messi-imago1019567000h.jpg",
+        "role": "Batsman",
+        "battingType": "Right-hand Bat",
+        "bowlingType": "Right-arm Medium",
+        "biddingPrice": 10000
+    },
+    {
+        "playerId": 2,
+        "name": "Babar Azam",
+        "country": "Pakistan",
+        "image": "https://i.ibb.co.com/F45vSBRc/lionel-messi-imago1019567000h.jpg",
+        "role": "Batsman",
+        "battingType": "Right-hand Bat",
+        "bowlingType": "Right-arm Offbreak",
+        "biddingPrice": 20000
+    },
+    {
+        "playerId": 3,
+        "name": "Ben Stokes",
+        "country": "England",
+        "image": "https://i.ibb.co.com/F45vSBRc/lionel-messi-imago1019567000h.jpg",
+        "role": "All-Rounder",
+        "battingType": "Left-hand Bat",
+        "bowlingType": "Right-arm Fast-Medium",
+        "biddingPrice": 30000
+    },
+    {
+        "playerId": 4,
+        "name": "David Warner",
+        "country": "Australia",
+        "image": "https://i.ibb.co.com/F45vSBRc/lionel-messi-imago1019567000h.jpg",
+        "role": "Batsman",
+        "battingType": "Left-hand Bat",
+        "bowlingType": "Right-arm Legbreak",
+        "biddingPrice": 40000
+    },
+    {
+        "playerId": 5,
+        "name": "Jasprit Bumrah",
+        "country": "India",
+        "image": "https://i.ibb.co.com/F45vSBRc/lionel-messi-imago1019567000h.jpg",
+        "role": "Bowler",
+        "battingType": "Right-hand Bat",
+        "bowlingType": "Right-arm Fast",
+        "biddingPrice": 10000
+    },
+    {
+        "playerId": 6,
+        "name": "Kane Williamson",
+        "country": "New Zealand",
+        "image": "https://i.ibb.co.com/F45vSBRc/lionel-messi-imago1019567000h.jpg",
+        "role": "Batsman",
+        "battingType": "Right-hand Bat",
+        "bowlingType": "Right-arm Offbreak",
+        "biddingPrice": 20000
+    },
+    {
+        "playerId": 7,
+        "name": "Rashid Khan",
+        "country": "Afghanistan",
+        "image": "https://i.ibb.co.com/F45vSBRc/lionel-messi-imago1019567000h.jpg",
+        "role": "Bowler",
+        "battingType": "Right-hand Bat",
+        "bowlingType": "Right-arm Legbreak",
+        "biddingPrice": 10000
+    },
+    {
+        "playerId": 8,
+        "name": "Quinton de Kock",
+        "country": "South Africa",
+        "image": "https://i.ibb.co.com/F45vSBRc/lionel-messi-imago1019567000h.jpg",
+        "role": "Wicketkeeper Batsman",
+        "battingType": "Left-hand Bat",
+        "bowlingType": "N/A",
+        "biddingPrice": 30000
+    },
+    {
+        "playerId": 9,
+        "name": "Pat Cummins",
+        "country": "Australia",
+        "image": "https://i.ibb.co.com/F45vSBRc/lionel-messi-imago1019567000h.jpg",
+        "role": "All-Rounder",
+        "battingType": "Right-hand Bat",
+        "bowlingType": "Right-arm Fast",
+        "biddingPrice": 10000
+    }
+]

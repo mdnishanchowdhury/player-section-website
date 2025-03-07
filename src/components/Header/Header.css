@@ -1,0 +1,7 @@
+
+nav li a:hover{
+    background-color: #E7FE29;
+    padding: 10px;
+    border-radius: 10px;
+    transition: all 0.3s;
+}
