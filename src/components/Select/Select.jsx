@@ -5,7 +5,6 @@ const Select = ({ playerItem }) => {
     const { name, image, battingType } = playerItem;
     return (
         <div>
-
             <div className='flex justify-between items-center gap-3 rounded-[16px] border border-[rgba(19,19,19,0.10)] p-6 '>
                 
                 <div className='flex items-center gap-5'>

@@ -1,6 +1,5 @@
 
 // import PropTypes from 'prop-types';
-
 const Main = ({ handleShowPlayers, handleShowSelect,count }) => {
     return (
         <>

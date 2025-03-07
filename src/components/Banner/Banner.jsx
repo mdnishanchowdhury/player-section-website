@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Banner = ({handleCoinCollect}) => {
+const Banner = ({ handleCoinCollect }) => {
     return (
         <div>
             <div>
@@ -18,5 +18,4 @@ const Banner = ({handleCoinCollect}) => {
         </div>
     );
 };
-
 export default Banner;

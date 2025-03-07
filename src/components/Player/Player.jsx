@@ -43,7 +43,6 @@ const Player = ({ player,handleSelect,}) => {
         </div>
     );
 };
-
 // Player.propTypes = {
 //     Player: PropTypes.player
 // };
